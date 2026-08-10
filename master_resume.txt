@@ -1,0 +1,1036 @@
+Gyanendra Dwivedi 
+Technical Architect | AI Engineer | Data & Analytics Architect
+Financial Services | Big Data | Cloud | Generative AI
+Phoenix, AZ, USA  
+Phone: +1-623-281-6017  
+Email: Gyanendra.Dwivedi@gmail.com
+LinkedIn: https://www.linkedin.com/in/gmd
+
+===============
+Professional Summary
+--------
+Software Architect and AI & Data Engineer with 20+ years of experience designing and implementing mission-critical, data-intensive systems in global financial institutions. Specializes in AI/LLM-powered applications, big data platforms, and high-performance analytics that support strategic decision-making. Recent work includes Custom GPT development, GCP/BigQuery modernization, and AI-driven analytics assistants.
+
+Proven track record of designing scalable data architectures, accelerating delivery timelines (cut project timelines by 6+ months), and enabling data-driven decision-making at enterprise scale. Strong expertise in Java, Python, distributed systems, and large-scale data processing, now extended into AI-powered applications and intelligent automation.
+
+• 10+ years of expertise in Big Data, specializing in Apache Hadoop, Spark, Hive, and MapR distributions.
+• Experienced practitioner of Machine Learning and Generative AI technologies with hands-on expertise in LLM engineering, Retrieval-Augmented Generation (RAG), prompt engineering, and enterprise AI solution development.
+• Proven leadership in solution architecture and development for mission-critical financial systems, including innovative enterprise platforms adopted at Fortune 100 organizations.
+• Extensive experience with global financial institutions: American Express (10+ years), Citigroup (4.5 years), Wellington Asset Management (3 years), JP Morgan (1 year), and Royal Bank of Scotland (1.5 years).
+• Skilled in re-architecting solutions, performance optimization, and process automation.
+
+SELECTED CAREER ACHIEVEMENTS
+-----------------------------------
+• Architected enterprise Big Data and AI platforms supporting American Express business analytics and customer insights.
+• Developed Custom GPT and RAG-based analytics assistants enabling natural language access to analytical data.
+• Led BigQuery modernization initiatives and cloud data platform transformation programs.
+• Designed reusable messaging and processing frameworks that reduced development timelines by approximately 6 months.
+• Built high-performance investment and trading platforms supporting portfolio management, derivatives processing, and FX systems.
+• Contributed to innovative enterprise platform designs and large-scale data processing frameworks adopted within American Express.
+
+Key Competencies
+------------------
+
+AI & Generative AI
+• LLM Engineering
+• RAG Architecture
+• Custom GPT Development
+• Prompt Engineering
+• LangChain
+• LlamaIndex
+• OpenAI APIs
+• Vector Databases
+• Semantic Search
+• Knowledge Assistants
+• AI Workflow Automation
+• AI-powered Analytics
+• Agentic Workflows
+• Machine Learning
+
+Programming Languages & Frameworks
+• Java, Python, PySpark
+• Spring Core, J2EE
+• Shell Scripting
+• XML APIs
+
+Cloud, Data Engineering & Big Data
+• Google Cloud Platform (GCP): BigQuery, BigTable, Cloud Storage, Pub/Sub, IAM, Compute Engine, Cloud Run
+• Hadoop Ecosystem
+• Apache Spark
+• Hive
+• Apache HBase / BigTable
+• MapReduce
+
+Databases, Messaging & Application Servers
+• Oracle
+• MS SQL Server
+• Apache Tomcat
+• JBoss
+• Embedded Jetty
+• Embedded ActiveMQ
+• AWS Redis
+
+Architecture & Design
+• Solution Architecture
+• Enterprise Architecture
+• System Integration
+• API Design
+• Event Driven Architecture
+• Data Architecture
+• Microservices Architecture
+
+Architecture Patterns
+• Microservices
+• Event Driven Architecture
+• Service Oriented Architecture (SOA)
+• REST APIs
+• Message Driven Systems
+• Pub/Sub Architecture
+• Batch Processing
+• Real-time Analytics
+• Distributed Systems
+
+Delivery & Methodologies
+• Agile
+• Scrum
+• Iterative Development
+• Rapid Application Development
+
+Development Tools & Configuration Management
+• Git
+• AccuRev
+• Rational ClearCase
+• Microsoft Visual SourceSafe (VSS)
+• JIRA
+• Confluence
+• Rally
+• Eclipse
+• IntelliJ IDEA
+• VS Code
+• GitHub Actions
+• Jenkins CI/CD
+
+Domain Expertise
+• Financial Services
+• Banking
+• Credit Cards
+• Loyalty Platforms
+• Regulatory Reporting
+• Data Governance
+• Risk & Compliance
+• Fraud Analytics
+• Customer Segmentation
+• Profitability Analytics
+• Investment Management
+• Trading Platforms
+• Capital Markets
+
+LEADERSHIP & TECHNICAL MANAGEMENT
+• Solution Architecture
+• Technical Leadership
+• Stakeholder Management
+• Cross-functional Team Leadership
+• Architecture Reviews
+• Technology Evaluation & PoCs
+• Technical Mentoring
+• Production Support Governance
+• SDLC Management
+• Offshore Coordination
+• Vendor Coordination
+• Team Enablement
+
+
+CAREER SUMMARY
+------------------------------------
+American Express                Technical Architect     2015 – Present
+Wellington Asset Management     Lead Platform Engineer  2012 – 2015
+Royal Bank of Scotland          Lead Platform Engineer  2010 – 2012
+Citigroup                       Senior Developer        2005 – 2010
+
+Industries:
+• Financial Services
+• Banking
+• Credit Cards
+• Capital Markets
+• Asset Management
+• Trading Platforms
+
+Years of Experience:
+• Total Experience: 20+ Years
+• Architecture Experience: 12+ Years
+• Big Data Experience: 10+ Years
+• Machine Learning / Artificial Intelligence / Generative AI Experience: 2+ Years
+
+==================
+Work Experience
+-----------------
+
+1. Project: Global Loyalty Business (GLB) Project
+Client: American Express
+Duration: Jul 2025 to till date
+Technology: GCP, BigQuery, Python, Machine Learning, LLM Engineering, OpenAI Custom GPTs, RAG, Shell, SQL, Apache Airflow, GitHub Actions, Jenkins CI/CD
+Business Domain: Financial Services, Credit Card, Reporting and Analytics, Card Loyalty Business, Finance Organized Data Layer
+Role: Technical Architect
+Description:
+Global Loyalty Business (GLB) powers the membership reward, Amex offers, and card benefits for millions of card holders across multiple markets. Helping the cardmember maximize benefits included with their Amex card and banking accounts is at the core of GLB. I led architecture and development of large-scale data and AI-enabled analytics platforms supporting customer insights and business decision-making.
+
+Responsibilities:
+• Migrated legacy Hive workloads to BigQuery, improving performance, scalability, and cost efficiency.
+• Developed Custom GPT-based solutions, including:
+• Analytics assistant for business users to explore cardmember insights conversationally over BigQuery-backed data.
+• Internal support GPT to streamline developer workflows and knowledge access.
+• Designed prompt workflows for structured + unstructured data interaction, improving analytics accessibility for non-technical users.
+• Delivered AI-driven insights via web and email channels through cross-functional collaboration. This contributed to faster decision-making and improved product targeting for cardmember segments.
+
+Business Impact:
+• Supported the modernization of the Global Loyalty Business data ecosystem by migrating legacy Hive-based workloads to Google BigQuery, improving platform scalability, maintainability, and query performance for analytics and reporting use cases.
+
+• Increased accessibility of loyalty and cardmember analytics by delivering Custom GPT-powered solutions that enabled business users to interact with enterprise data through natural language, reducing dependency on technical teams for routine data exploration.
+
+• Improved developer productivity and knowledge retrieval through an internal support GPT solution, helping teams access technical information and operational guidance more efficiently.
+
+• Enabled more effective use of both structured and unstructured business data through the design of prompt-engineering workflows and Retrieval-Augmented Generation (RAG) patterns, making analytics capabilities available to a broader user community.
+
+• Contributed to faster insight generation and business decision-making by delivering AI-driven analytics outputs through web- and email-based channels, supporting customer targeting, product optimization, and loyalty program analysis.
+
+Leadership Contribution:
+• Served as Technical Architect for strategic data and AI initiatives within the Global Loyalty Business portfolio, providing architecture guidance across cloud data platforms, analytics solutions, and emerging Generative AI use cases.
+
+• Led the design and implementation of BigQuery-based modernization efforts, establishing technical approaches, reviewing solution designs, and supporting delivery teams during migration from legacy environments.
+
+• Drove the adoption of Generative AI technologies by identifying practical business use cases and translating them into production-ready solutions, including analytics assistants and internal knowledge-support platforms.
+
+• Collaborated closely with business stakeholders, product teams, data engineers, and analytics teams to align technical solutions with business objectives and ensure successful delivery of AI-enabled capabilities.
+
+• Mentored team members on BigQuery, prompt engineering, RAG architectures, and AI application development, helping build project-wide competency in modern data and AI technologies.
+
+• Facilitated cross-functional discussions and technical decision-making, balancing innovation, scalability, governance, and business value while delivering solutions within the American Express data ecosystem.
+
+### Scale Metrics
+Data volume processed: 1.6 TB Daily
+Records processed daily: Approx 80 Million records
+Number of business users: 1000+ (estimated)
+Number of source systems: (Approx 13)
+
+
+-------------
+2. Project: Big Data PMDL Project
+Client: American Express
+Duration: Jan 2017 to Jul 2025
+Technology: MapR Hadoop, Python, PySpark, Spark SQL, Hive, Core Java, Spring Batch, Machine Learning, LLM Engineering, OpenAI Custom GPTs, RAG, Shell, Jethro, SQL, GitHub Actions, Jenkins CI/CD, Maven
+Business Domain: Financial Services, Credit Card, Reporting and Analytics, Finance Organized Data Layer
+Role: Technical Architect
+Description : 
+Built from scratch, the PMDL project focuses on matching records from various sources, enabling business teams to analyze profitability, identify anomalies, and uncover successful strategies. It aims to deliver predictive analyses for credit card customers, presenting these insights through email or web channels, thereby adding significant value to the product offerings.
+
+Responsibilities:
+• Collaborating with cross-functional teams to analyze requirements, design strategies, and develop tailored solutions that effectively address project needs. This involves regular communication and coordination to ensure alignment across all stakeholders.
+• Leading the design and development of a robust framework utilizing Java, Python, Spark, and MapReduce technologies. This framework is aimed at achieving project objectives, optimizing performance, and handling large-scale data processing tasks with efficiency.
+• Developing Hive and HBase frameworks leveraging Java APIs for bulk data validation and comprehensive data checks. These frameworks are designed to ensure data integrity, facilitate seamless validation processes, and support efficient data management across diverse datasets.
+• Trained machine learning data models to predict profitable customer’s spending patterns and generating insight for business users.
+• Designed and implemented predictive analytics systems for credit card customers using large-scale data pipelines.
+• Enabled anomaly detection, profitability analysis, and customer segmentation at scale using big data frameworks.
+• Performed POC to create use case for application of LLM engineering for end-user consumption. After POCs, I created custom GPTs for end users to be able to query data themselves thus reducing dependencies on the product owners. I also demonstrated the application of LLM RAG to build LLM application for user analytics.
+
+
+### Business Impact
+• Architected and delivered the PMDL (Profitability Measurement Data Layer) platform, establishing a centralized analytical foundation that enabled business teams to evaluate customer profitability, identify anomalies, and support data-driven decision-making across American Express credit card products.
+
+• Developed large-scale data processing and validation frameworks using Hadoop, Spark, Hive, HBase, Java, and Python technologies, improving data quality, consistency, and reliability across multiple enterprise data sources.
+
+• Built scalable data ingestion, transformation, validation, and analytics frameworks capable of processing approximately 1 billion records and 1.8 TB of data monthly, enabling timely delivery of customer profitability and behavioral analytics.
+
+• Designed and implemented predictive analytics and machine learning solutions that identified profitable customer spending behaviors, supporting targeted marketing strategies, customer engagement programs, and business growth initiatives.
+
+• Enabled customer segmentation, profitability analysis, and anomaly detection capabilities through advanced big data processing architectures, helping business users uncover actionable insights from large-scale transactional datasets.
+
+• Delivered analytics solutions that provided visibility into customer spending patterns, tenure, product ownership, and customer segments, enabling business stakeholders to better understand customer behavior and business performance.
+
+• Established reusable Hadoop and Spark-based processing frameworks that accelerated development of new analytical capabilities while improving maintainability, scalability, and operational efficiency across the platform.
+
+• Improved enterprise data quality and confidence in analytical reporting by implementing comprehensive validation controls, bulk-data quality frameworks, and large-scale reconciliation capabilities.
+
+• Supported analytical capabilities utilized by approximately 1,000+ business users by providing a scalable data platform that enabled profitability reporting, customer analytics, business intelligence, and strategic decision-making.
+
+• Evaluated and prototyped emerging technologies, including Machine Learning and Large Language Models (LLMs), establishing proof-of-concepts that demonstrated potential future applications of AI within customer analytics and profitability domains.
+
+### Leadership Contribution
+
+• Served as Technical Architect and primary technology leader for the PMDL (Profitability Measurement Data Layer) platform, providing long-term architectural stewardship across multiple generations of platform evolution while ensuring scalability, performance, maintainability, and operational stability.
+
+• Led architecture, design, and implementation of enterprise-scale big data solutions utilizing Hadoop, Spark, Hive, HBase, Java, and Python technologies, establishing reusable frameworks and technical standards for data ingestion, validation, processing, and analytics.
+
+• Partnered closely with business stakeholders, product owners, analytics teams, and data scientists to translate complex business requirements into scalable analytical solutions supporting profitability measurement, customer analytics, and strategic decision-making.
+
+• Guided engineering teams in the adoption and effective use of distributed computing technologies, machine learning frameworks, data engineering best practices, and large-scale analytics architectures.
+
+• Established data validation, reconciliation, and quality assurance frameworks that improved confidence in analytical reporting and strengthened governance across multiple enterprise data sources.
+
+• Mentored engineers and technical team members on big data architecture, Spark optimization, Hadoop ecosystem technologies, distributed processing patterns, and performance engineering techniques, helping accelerate team capability growth.
+
+• Provided architectural governance and technical oversight for key platform decisions, balancing business objectives, performance requirements, scalability considerations, operational supportability, and long-term maintainability.
+
+• Led proof-of-concept initiatives and technology evaluations for emerging capabilities including Machine Learning, advanced analytics, and future AI-driven use cases, helping position the platform for continued innovation.
+
+• Facilitated architecture reviews, solution design discussions, and cross-functional planning activities, acting as a bridge between business and technology organizations throughout the platform lifecycle.
+
+• Drove continuous platform improvement initiatives focused on performance optimization, framework standardization, operational efficiency, and reduction of technical debt across the PMDL ecosystem.
+
+• Influenced technical strategy, platform roadmap planning, and architectural investment decisions, ensuring the PMDL platform continued to scale with growing business and analytical demands.
+
+### Scale Metrics
+Data volume processed: 1.8 TB Monthy
+Records processed monthly: Approx 1B records
+Number of business users: 1000+ (estimated)
+Number of source systems: (Approx 5)
+
+--------------------
+3. Project: Big Data LASER Project
+Client: American Express
+Duration: Mar 2015 to Jan 2017
+Technology: MapR Hadoop, Map Reduce, Hive, HBase, Core Java, Spring Batch, Machine Learning, Shell, MySQL DBMS, SQL, GitHub, Jenkins CI/CD
+Business Domain: Financial Services, Credit Card, Fraud Detection, Customer Insight and Analytical Services
+Role: Data Engineer
+Description: 
+The Big Data Project Laser aims to provide fraud detection alerts (unusual patterns) and insights services for card member that meet specific criteria (e.g. Spend, Tenure, Segmentation and Product type). Laser aims to create predictive analysis for credit card customers, which is available to then in the form of email or web channel to provide strong value addition to product.
+
+Responsibilities:
+• Worked with team on insight design discussion and analytics.
+• Wrote Map-reduce programs to identify multiple boundary data cases for insights.
+• Written Hive and Hbase framework using Java API for bulk data processing.
+
+### Business Impact
+• Contributed to the development of the LASER fraud detection and customer analytics platform, enabling predictive analysis and behavioral insights for millions of American Express cardmembers by leveraging large-scale Hadoop-based data processing and analytics frameworks.
+
+• Designed and developed MapReduce-based processing solutions to analyze approximately 40M+ customer and transaction records daily, identifying unusual spending patterns, fraud indicators, and customer behavior anomalies that supported fraud detection and risk mitigation initiatives.
+
+• Built scalable Hive and HBase data processing frameworks using Java APIs to efficiently process approximately 1.6 TB of monthly enterprise data, improving data availability, processing reliability, and analytical throughput for business-critical workloads.
+
+• Supported customer insight generation across spending behavior, tenure, product ownership, and segmentation dimensions, enabling more targeted customer engagement strategies, personalized product offerings, and improved business intelligence capabilities.
+
+• Improved large-scale data processing efficiency through Hadoop ecosystem technologies including MapReduce, Hive, and HBase, allowing analytical workloads to scale effectively across distributed computing environments while maintaining processing accuracy and performance.
+
+• Contributed to the delivery of predictive analytics and customer intelligence solutions that provided actionable insights through web- and email-based channels, enabling business teams to make data-driven decisions and improve customer experience initiatives.
+
+• Integrated data from multiple enterprise source systems into a centralized big data analytics platform, improving data consistency, enabling cross-domain analysis, and supporting a unified view of customer behavior and transaction activity.
+
+• Supported analytics capabilities utilized by 1,000+ business stakeholders, enabling faster access to fraud detection insights, customer intelligence, and business reporting across American Express customer analytics functions.
+
+• Established reusable big data processing frameworks and best practices that improved maintainability, scalability, and onboarding efficiency for future Hadoop-based analytical initiatives.
+
+### Leadership Contribution
+• Collaborated with business analysts, data engineers, and project stakeholders to understand analytical requirements and translate them into scalable big data solutions.
+
+• Actively participated in insight design discussions and technical planning sessions, contributing ideas for improving analytical models, processing logic, and data quality.
+
+• Took ownership of key data engineering components, including MapReduce programs and Hive/HBase processing frameworks, ensuring timely and high-quality delivery of project deliverables.
+
+• Worked closely with team members to troubleshoot complex data processing issues and optimize performance across Hadoop-based workloads.
+
+• Contributed to the adoption of big data engineering best practices in the areas of distributed processing, data validation, and framework development.
+
+• Demonstrated strong technical problem-solving skills while working on large-scale analytical use cases involving fraud detection, customer segmentation, and predictive analytics.
+
+### Scale Metrics
+Data volume processed: 1.6 TB Monthly
+Records processed daily: Approx 40M records
+Number of business users: 1000+ (estimated)
+Number of source systems: (Approx 3)
+
+---------------
+4. Project: WAMC - Investment View Performance System (IVPS)
+Client: Wellington Asset Management PLC
+Duration: Feb 2013 to Mar 2015
+Technology: Core Java, Jav NIO API, Trove Collection API, XML, Active MQ, Shell Scripting, SQL
+Business Domain: Financial Services, Corporate Banking, Online Investment Platform, Financial reporting and compliance, Hedging
+Role: Lead Platform Engineer
+Description: 
+The Investment View Performance System (IVPS) was a high-performance investment analytics and portfolio performance platform used by portfolio managers, traders, and investment analysts at Wellington Asset Management to support investment strategy decisions, portfolio analysis, risk monitoring, and daily trading activities. The platform maintained approximately 10 years of historical trading and portfolio performance data using Java NIO, Direct Byte Buffers, and Memory-Mapped Files, enabling enterprise-scale in-memory analytics with sub-second response times for XML-based query requests. The system supported investment decision-making across institutional portfolios managed by a global asset management organization overseeing approximately $927B in assets under management (AUM).
+
+Responsibilities:
+• Working as a core solution architect team member in designing the overall system/applications.
+• Solely design and developed a robust MQ-based data-processing framework. The framework enabled rapid development of many applications, hence saving 6 months of project time.
+• Involved in design and development of high performance IVPS server using prominent technologies like embedded jetty, Trove collection API, NIO etc. The server is handling of holding high volume of binary format data in direct byte buffer and memory mapped file.  
+
+### Business Impact
+
+• Engineered a high-performance investment analytics platform that enabled portfolio managers and traders to analyze approximately 10 years of historical trading and portfolio performance data with sub-second response times, significantly improving the speed of investment research, portfolio analysis, and trading decision support.
+
+• Leveraged Java NIO, Direct Byte Buffers, Memory-Mapped Files, and advanced in-memory processing techniques to eliminate traditional database bottlenecks and deliver low-latency access to enterprise-scale market, trade, and portfolio datasets.
+
+• Contributed to technology solutions supporting a global asset management organization managing approximately $927B in Assets Under Management (AUM), enabling investment professionals to make faster, data-driven decisions using near real-time historical performance analytics.
+
+• Designed and developed a reusable ActiveMQ-based data processing framework that accelerated development of multiple downstream applications and integration services, reducing project delivery timelines by approximately 6 months and increasing engineering productivity across teams.
+
+• Developed scalable server-side components utilizing Embedded Jetty, Trove Collections, ActiveMQ, and Java concurrency frameworks to efficiently process high-volume trading and portfolio analytics requests while maintaining stringent performance SLAs.
+
+• Improved analytics responsiveness and user productivity by enabling portfolio managers, risk analysts, and traders to access complex investment performance calculations and historical portfolio views within sub-second timeframes.
+
+• Enhanced platform scalability and operational reliability through event-driven processing architectures and message-based integration patterns, supporting mission-critical investment reporting and portfolio management workflows.
+
+• Supported financial reporting, portfolio performance analysis, compliance monitoring, investment strategy evaluation, and trading operations by providing a stable, highly available, low-latency analytics platform.
+
+• Established reusable performance engineering patterns utilizing off-heap memory management, memory-mapped data structures, and optimized collection libraries, creating a foundation for future high-throughput financial systems.
+
+### Leadership Contribution
+
+• Served as a key member of the core architecture team responsible for designing strategic components of the Investment View Performance System (IVPS), contributing to critical technology and design decisions.
+
+• Led the end-to-end design and development of a reusable ActiveMQ-based processing framework that became a foundational component for multiple applications across the platform.
+
+• Demonstrated strong technical leadership by driving the adoption of high-performance engineering techniques, including Java NIO, direct byte buffers, memory-mapped files, and optimized in-memory data management.
+
+• Collaborated closely with architects, business stakeholders, portfolio technology teams, and fellow engineers to align technical solutions with business and operational requirements.
+
+• Provided technical guidance and support to development teams leveraging the messaging framework, helping accelerate implementation efforts and promote consistent engineering practices.
+
+• Played a key role in solving complex performance and scalability challenges associated with processing and serving large volumes of historical trading data while maintaining stringent response-time requirements.
+
+• Contributed to the establishment of engineering best practices around performance optimization, framework reuse, and scalable platform design, helping improve overall solution quality and maintainability.
+
+
+------------------
+5.Project: WAMC - Derivative Operation System (DOS)
+Client: Wellington Asset Management PLC
+Duration: Mar 2012 to Jan 2013
+Technology: Core Java, J2EE, Spring Batch, Embedded Active MQ, Oracle Advanced Queue server, Shell Scripting, JMX Mbean, PDF API, Jasper API, Webservices (SOAP, REST API, JSON, HTTP), Microservices, Oracle DBMS, SQL
+Business Domain: Financial Services, Online Trading Platform, Swap/Option Trading
+Role: Lead Platform Engineer
+Description: 
+The Derivative Operation System (DOS) was a Java-based real-time trade processing and reconciliation platform supporting Wellington Asset Management's Swap and Options trading operations. The platform automated trade allocation, reconciliation, trade-ticket generation, operational reporting, and messaging-based integration across trading systems. Built using Oracle Advanced Queue (AQ), ActiveMQ, Spring Batch, JMX, Jasper Reports, and Web Services technologies, the platform incorporated automated recovery, failover, monitoring, and operational resiliency capabilities to support business-critical derivatives processing within a global asset management organization managing hundreds of billions of dollars in client assets.
+
+Responsibilities:
+• Involved in designing the solution from scratch as one of the two solution architect members.
+• Developed the Oracle AQ Interface including monitoring, backup & recovery process.
+• Designed and Developed the Derivative allocation processor for trade processing, including a heartbeat checker and emergency backup trade processing system. It also has an automatic processing error recovery module. 
+
+### Business Impact
+
+• Contributed to the design and development of the Derivative Operation System (DOS), a business-critical trade processing and reconciliation platform supporting real-time Swap and Options trading operations within a global asset management organization managing hundreds of billions of dollars in client assets.
+
+• Designed and developed the Derivative Allocation Processor, a core trade-processing component responsible for trade allocation, validation, workflow orchestration, and reconciliation activities, helping improve operational efficiency and processing accuracy.
+
+• Developed a robust Oracle Advanced Queue (AQ) integration framework, including monitoring, backup, and recovery capabilities, enabling reliable message-driven communication between critical trading and operational systems.
+
+• Improved platform resiliency through implementation of heartbeat monitoring, automated error recovery, and backup trade-processing mechanisms, reducing operational risk and improving processing continuity for real-time trading workflows.
+
+• Contributed to the implementation of an event-driven processing architecture utilizing Oracle AQ and ActiveMQ technologies, improving scalability, maintainability, and reliability of trade-processing services.
+
+• Supported Straight-Through Processing (STP) initiatives by automating trade processing, reconciliation, reporting, and trade-ticket generation workflows, reducing manual operational effort and improving trade lifecycle efficiency.
+
+• Enhanced operational reporting and auditability through automated PDF trade-ticket generation and reconciliation processes, supporting business, operational, and compliance requirements.
+
+• Improved platform observability by implementing JMX-based monitoring and health-check capabilities, enabling proactive issue detection, faster incident response, and improved operational support.
+
+• Contributed to a highly automated trading operations environment supporting investment professionals across a global asset management organization responsible for managing approximately $348B-$389B of publicly reported investment assets during the project period.
+
+### Leadership Contribution
+
+• Served as one of the two key architecture contributors responsible for designing the overall solution architecture for the Derivative Operation System from project inception.
+
+• Led the design and development of critical platform components including Oracle AQ interfaces, monitoring solutions, backup and recovery processes, and trade-processing services.
+
+• Designed and implemented a resilient derivative allocation processing framework capable of handling real-time trade events while maintaining operational stability and processing continuity.
+
+• Introduced proactive operational monitoring through heartbeat validation and automated failure-detection mechanisms, helping improve platform reliability and supportability.
+
+• Collaborated closely with business analysts, trading operations teams, architects, and developers to ensure technical solutions aligned with business requirements and operational objectives.
+
+• Provided technical leadership in the adoption of messaging-based architectures and distributed processing patterns using Oracle AQ and ActiveMQ technologies.
+
+• Played a key role in addressing performance, fault-tolerance, and recoverability requirements for a business-critical trading platform where accuracy and reliability were essential.
+
+• Established reusable design patterns and engineering practices for message processing, monitoring, exception handling, and system recovery that supported maintainable and scalable platform development.
+
+
+------------------
+6.Project: RBS - Firefox project
+Client: Royal Bank of Scotland
+Duration: Oct 2010 to Feb 2012
+Technology: Core Java, J2EE, Spring Batch, JBOSS HA JNDI, IBM MQ server, Shell Scripting, XML, Webservices (SOAP, REST API, JSON, HTTP), Microservices, SQL Server DBMS, SQL
+Business Domain: Financial Services, Online Trading Platform, Forex Trading
+Role: Lead Platform Engineer
+Description: 
+Firefox was a Java-based enterprise trade-processing platform that served as a shared technology foundation for multiple foreign exchange (FX) and trade-processing systems across Royal Bank of Scotland. The platform provided a pluggable, component-based architecture that enabled rapid assembly of trade-processing workflows, market data processing services, trade posting integrations, and operational automation capabilities. Built using Java, Spring, IBM MQ, clustered JBoss HA-JNDI environments, and distributed messaging technologies, the platform supported business-critical trading operations within one of the world's largest banking institutions, enabling scalable, resilient, and reusable trade-processing solutions.
+
+Responsibilities:
+• Designed and developed some of the complex processing units for the project, like processing very large XML data, Configuration based XML to Property converter, multiple types of data posting to Wallstreet using Java Reflection API.
+• Involved in designing a clustered server system with JBOSS HA-JNDI, Messaging cluster.
+• Designed and developed data processing alert, failover and retry system.
+
+### Business Impact
+
+• Contributed to the development and enhancement of the Firefox platform, a reusable enterprise trade-processing framework that served as a foundation for multiple foreign exchange (FX), market data, and trade-processing applications across the Royal Bank of Scotland technology ecosystem. 
+
+• Developed complex reusable processing components for large-scale XML data processing, automated data transformation, and configurable integration workflows, improving development productivity and accelerating delivery of new trade-processing capabilities.
+
+• Designed and implemented configurable Wallstreet integration components capable of processing and posting multiple data formats into downstream trading platforms, enabling seamless movement of trade and market data across enterprise systems.
+
+• Improved platform flexibility through the development of pluggable and reusable processing modules, allowing engineering teams to rapidly configure and deploy new business workflows with reduced development effort and faster time-to-market. 
+
+• Contributed to the design of a highly available clustered processing environment utilizing JBoss HA-JNDI and messaging clusters, improving platform scalability, resilience, and operational continuity for business-critical trading applications. 
+
+• Enhanced operational reliability through implementation of automated alerting, intelligent retry mechanisms, and failover capabilities, reducing manual intervention and improving recoverability of high-priority trade-processing workloads.
+
+• Supported FX trading and market-data processing operations within a global banking organization that managed more than $3.5 trillion in assets, demonstrating the ability to deliver scalable and reliable technology solutions for large-scale financial institutions.
+
+• Established reusable platform components and distributed processing patterns that improved maintainability, standardization, and long-term extensibility of enterprise trade-processing systems.
+
+### Leadership Contribution
+
+• Served as Lead Platform Engineer, providing technical leadership in the design and development of key framework components within the Firefox platform.
+
+• Designed and developed several complex reusable processing modules, including high-volume XML processing engines, configuration-driven transformation utilities, and dynamic data integration components leveraging Java Reflection techniques.
+
+• Collaborated with architects and engineering teams to design scalable clustered platform architectures capable of supporting high transaction volumes and distributed processing requirements.
+
+• Led the design and implementation of operational resilience features, including monitoring, alerting, automated retry, and failover mechanisms, helping improve platform reliability and supportability.
+
+• Promoted framework reuse and component-based design principles, enabling multiple applications and teams to leverage common platform capabilities while reducing duplication of effort.
+
+• Worked closely with business and technology stakeholders to understand trading workflow requirements and translate them into scalable platform services and reusable processing frameworks.
+
+• Contributed to architectural discussions around messaging, clustering, scalability, and system integration, helping establish a robust technical foundation for future trading applications.
+
+• Demonstrated strong technical leadership in solving complex data-processing and integration challenges within a business-critical foreign exchange trading environment.
+
+
+--------------------
+7. Project: Citigroup - Client Profiling and Charge Service (CPACS)	
+Client: Citibank IT Services
+Duration: Dec 2009 to Oct 2010
+Technology: Core Java, J2EE, JSP, Servlet, XML, IBM MQ server, Shell Scripting, API Gateway, Caching, Microservices, RMI
+Business Domain: Financial Services, Equity and Derivative Products
+Role: Senior Developer
+
+Description: 
+CPACS service is a Java based API interface, which enables charge calculation and client profiling for Citigroup’s equity/derivatives business. It also has an online GUI interface to manage Client’s data which is used by API. The clients use this library within their system to take CPACS services.
+
+Responsibilities:
+• Design and development of XML-based Utility framework, which is highly customizable. The framework support XML-based utility development and their concurrent execution.
+• Development of IP-based client’s cache refresh program, which enables restart of specific client’s cache without affecting other clients.
+
+### Business Impact
+
+• Contributed to the development of the Client Profiling and Charge Service (CPACS), a shared service platform that enabled client profiling and charge calculation for Citigroup's equity and derivatives business.
+
+• Developed a configurable XML-based utility framework that simplified the creation and execution of XML processing utilities, improving development efficiency and promoting reuse across multiple business functions.
+
+• Enhanced platform scalability and operational efficiency through the design of concurrent processing capabilities, enabling faster execution of data-processing activities and supporting growing transaction volumes.
+
+• Improved service availability and client experience by implementing an IP-based client cache refresh mechanism that allowed targeted cache updates without requiring full system restarts or impacting other clients.
+
+• Supported front-office and back-office processes by enabling consistent access to client profile and charge information through reusable API services and web-based management interfaces.
+
+• Contributed to the reliability and maintainability of business-critical services used by downstream applications consuming CPACS functionality across the equities and derivatives ecosystem.
+
+### Leadership Contribution
+
+• Served as a Senior Developer with ownership of key platform components supporting client profiling and charge-calculation services.
+
+• Designed and developed a reusable XML-based utility framework that established a flexible approach for implementing XML-driven processing and integration requirements.
+
+• Led the technical implementation of concurrent utility execution capabilities, helping improve framework performance and extensibility.
+
+• Designed and implemented a targeted cache management solution that enabled dynamic refresh of client-specific data while minimizing operational disruption.
+
+• Collaborated closely with architects, business analysts, and development teams to understand business requirements and translate them into scalable technical solutions.
+
+• Contributed to framework design discussions, component standardization efforts, and best practices that improved solution maintainability and reusability.
+
+• Demonstrated strong problem-solving skills in addressing performance, data management, and system availability challenges within a distributed financial-services environment.
+
+------------------
+8.Project: Light House (Client and trading exchange messaging using FIX protocol)
+Client: JP Morgan Chase (JPMC)
+Duration: Jan 2009 to Dec 2009
+Technology: Core Java, UNIX Perl Scripting, Financial Information Exchange (FIX) Protocol 4.2
+Business Domain: Financial Services, Online Trading Platform, Forex Trading, Financial Information Exchange Services
+Role: Senior Developer
+Description: 
+LightHouse is a FIX protocol based system for communication between trading system and broking house. The Financial Information eXchange (FIX) Protocol is a tag-value based messaging standard developed specifically for the real-time electronic exchange of securities transactions. FIX is a public-domain specification owned and maintained by FIX Protocol, Ltd. (www.fixprotocol.org). The LightHouse system is responsible for managing client session, validating messages and sending them to appropriate trading gateway. It can maintain session and communication with many trading systems simultaneously.
+
+Responsibilities:
+Enhancing and Bug fixing in the project modules written in Java.
+Developing Perl script for generating various reports.
+
+### Business Impact
+
+• Contributed to the maintenance and enhancement of the LightHouse platform, a FIX Protocol-based messaging system that facilitated real-time communication between trading systems and brokerage networks.
+
+• Supported the processing and routing of electronic trading messages by implementing enhancements and resolving defects in core Java-based components responsible for session management, message validation, and gateway integration.
+
+• Helped improve system stability and operational reliability by addressing production issues and enhancing critical messaging workflows within a business-critical trading environment.
+
+• Contributed to the efficient exchange of securities transaction data using the FIX 4.2 standard, supporting seamless communication between multiple trading platforms and broker systems.
+
+• Developed automated reporting solutions using Perl scripting, enabling operational teams to monitor trading activities and access key processing information more effectively.
+
+• Assisted in maintaining a platform capable of supporting simultaneous connectivity with multiple trading systems, helping ensure uninterrupted trading communications.
+
+### Leadership Contribution
+
+• Served as a Senior Developer responsible for implementing enhancements and maintaining key components within a high-volume FIX messaging platform.
+
+• Investigated and resolved complex application defects, contributing to improved platform stability, message-processing accuracy, and operational efficiency.
+
+• Developed reporting and automation utilities that streamlined operational monitoring and reduced manual effort associated with reporting activities.
+
+• Collaborated with business analysts, trading technology teams, and senior engineers to understand business requirements and implement required platform enhancements.
+
+• Applied domain knowledge of FIX Protocol messaging and electronic trading workflows to support ongoing system improvements and issue resolution.
+
+• Participated in production support activities, helping ensure the reliable operation of trading communication services used by downstream trading applications.
+
+• Demonstrated strong technical problem-solving capabilities in a fast-paced foreign exchange and securities trading environment where system availability and message accuracy were critical.
+
+
+---------------------
+9. Project: Citibank Online and Portal Application(CBOL and Portal)
+Client: Citibank, Japan
+Duration: June 2008 to Jan 2009
+Technology : Java, J2EE, Struts, MVC application, Websphere6.1, Oracle9i, HP Quality Control, Rational Clearcase, iMode Simulators
+Business Domain: Financial Services, Consumer Banking, Saving / Checking Account, Fixed Deposit, Credit card, Debit Card, Online Banking
+Role: Senior Developer (CitiBank Japan – Tokyo Japan)
+Description: 
+The Java Financial Platform (JFP) is a Java 2 Enterprise Edition (J2EE) Servlet container-based platform for financial applications.  JFP provides a framework for building Model/View/Controller (MVC)-style applications using extensions to the Jakarta Struts framework. JFP also includes supporting services for those applications, and tools and procedures for deploying those applications in an Internet portal or other customer self-service environment.
+
+Responsibilities:
+Discussion with the client about new projects, gathering requirements and production implementation.
+Doing first level analysis of client’s requirements, having technical discussions with offshore development team.
+Coordination with various teams responsible for development, testing, infrastructure setup and implementation.
+
+### Business Impact
+
+• Supported the delivery and enhancement of Citibank Japan's online banking and customer self-service platforms, enabling retail banking customers to access account, deposit, card, and online banking services through a secure and scalable web-based environment.
+
+• Contributed to the successful rollout of new business initiatives by working directly with business stakeholders to gather requirements, assess feasibility, and facilitate implementation planning.
+
+• Improved communication and alignment between onsite business teams and offshore development teams, helping accelerate project delivery and reduce requirement interpretation gaps.
+
+• Supported the evolution of the Java Financial Platform (JFP), enabling the delivery of standardized, MVC-based banking applications built on a common enterprise framework.
+
+• Facilitated the implementation of customer-facing online banking enhancements while ensuring compliance with established platform standards, deployment procedures, and quality requirements.
+
+• Contributed to the successful deployment of banking applications within a highly regulated financial services environment serving Citibank Japan customers.
+
+### Leadership Contribution
+
+• Served as the primary onsite technical coordinator between Citibank Japan business stakeholders and offshore development teams, ensuring effective communication and alignment throughout project execution.
+
+• Conducted requirement discussions with business users and project sponsors, helping translate business needs into actionable technical requirements for the development organization.
+
+• Performed first-level solution analysis and impact assessments for new initiatives, providing technical input during project planning and prioritization activities.
+
+• Coordinated across development, testing, infrastructure, and implementation teams to facilitate smooth project execution and successful production deployments.
+
+• Provided technical guidance and clarification to offshore teams throughout the development lifecycle, helping resolve requirement ambiguities and implementation challenges.
+
+• Built strong working relationships with business and technology stakeholders, contributing to effective collaboration and timely delivery of customer-facing banking solutions.
+
+• Demonstrated leadership in a multicultural onsite-offshore delivery model by bridging communication between business stakeholders in Japan and global technology teams.
+
+----------------------
+10. Project: Citibank Mobile JFP Application(CBMO)
+Client: Citibank, Japan
+Duration: September 2005 to May 2008
+Technology: Core Java, JSP, Servlets, Struts 1.2, Bea Weblogic 8.1, Oracle9i
+Business Domain: Financial Services, Consumer Banking, Saving / Checking Account, Fixed Deposit, Credit card, Debit Card, Online Banking
+Role: Developer
+Description: 
+CBMO JFP is a migration project of moving all Japan based Citibank Mobile Banking applications to JFP environment. The current legacy system (Direct Access) supporting the Internet banking offering is a Windows-based VB/COM application that will reach its End of Life soon.
+Following are the business objective for migration on the new platform:
+• Supporting all three major mobile carriers in Japan (DoCoMo, KDDI, Softbank)  
+• Usability improvement (Display, Operability, Navigation)
+• Strengthening security by switching to JFP
+
+Responsibilities:
+Analysis of the existing FCY TD, Account Details and Activities and LCY Time Deposit product and creating APS (Application Program Specification) to cater mobile requirements in JFP.
+Development of the applications using JFP platform.
+Unit testing and System Integration Testing of the applications.
+Independent Unit testing and Review of the other CBMO applications. 
+
+### Business Impact
+
+• Contributed to the successful migration of Citibank Japan's mobile banking platform from a legacy VB/COM-based system to the Java Financial Platform (JFP), supporting the bank's long-term technology modernization strategy.
+
+• Enabled delivery of mobile banking services for Japan's major mobile carriers, including DoCoMo, KDDI, and SoftBank, helping expand customer access to banking services through mobile channels.
+
+• Supported the implementation of enhanced user experience capabilities, including improved navigation, usability, and mobile presentation features across customer-facing banking applications.
+
+• Contributed to strengthening platform security by supporting the migration of mobile banking applications to the JFP architecture, aligning with Citibank's enterprise technology standards.
+
+• Developed and tested key banking functionalities covering account information, transaction history, fixed deposits, and consumer banking products, helping ensure reliable customer service delivery.
+
+• Supported high-quality application releases through rigorous unit testing, system integration testing, and peer review activities, contributing to platform stability and production readiness.
+
+### Leadership Contribution
+
+• Performed detailed functional and technical analysis of legacy banking applications, translating business requirements into application specifications suitable for implementation on the JFP platform.
+
+• Created Application Program Specifications (APS) for mobile banking functionality, helping establish clear implementation guidelines for development activities.
+
+• Took ownership of assigned banking modules from analysis through development, testing, and deployment support, ensuring successful delivery of project milestones.
+
+• Contributed to quality assurance efforts by independently reviewing and testing applications developed by other team members, helping improve overall solution quality and consistency.
+
+• Collaborated closely with business analysts, architects, testers, and development teams to ensure accurate implementation of banking requirements.
+
+• Developed strong domain expertise in consumer banking products, including savings accounts, checking accounts, fixed deposits, and card services, enabling effective participation in business and technical discussions.
+
+• Demonstrated commitment to engineering excellence through active participation in design reviews, testing activities, defect resolution, and knowledge-sharing initiatives.
+
+
+------------------------
+11. Project: CitiDirect Japan
+Client: Citicorp Development Center (CDC) – Citibank Japan
+Duration: Feb 2005 – August 2005
+Technology: Visual Basic 6.0 (COM), MS SQL Server 2000, Windows 2000 Server, JavaScript, ASP
+Business Domain: Financial Services, Consumer Banking, Saving / Checking Account, Fixed Deposit, Credit card, Debit Card, Online Banking
+Role: Developer
+Description:
+CitiDirect is the brand name given to PC Internet Banking project of Citibank, worldwide. The system is deployed on an architecture known as NTDS (New Technology Delivery System). This is a proprietary system developed by Citicorp Development Center (CDC), LA who is overall responsible for CitiDirect. The CitiDirect Japan project consists of development and customization of regional applications for Citibank Japan.
+
+Responsibilities:
+Involved with the design and development of 
+• CBOL Dynamic Zengin transfer to unregistered payee.
+• One Time Password (OTP) Application modules
+• Card Usage Email Alert Application
+• AIO (All in one) project - migration from SQL server to Oracle
+• Last sign on detail display in CBMO Sign on Screen.
+• Independent Unit testing and Integration testing of FIEL, MF enhancement and other modules.
+• Involved with development and enhancements related to production support activities and Ethical hack finding fixes.
+• Worked as Project VSS Librarian for SCM activities.
+• Involved in the project releasing activities using Rational Clearcase system.
+
+### Business Impact
+
+• Contributed to the development and customization of Citibank Japan's CitiDirect online banking platform, supporting consumer banking services delivered through Citibank's global internet banking infrastructure.
+
+• Developed customer-facing banking features including dynamic fund transfer capabilities, one-time password (OTP) functionality, card usage email alerts, and account security enhancements that improved customer convenience and transaction security.
+
+• Supported the migration and modernization of application components as part of enterprise platform initiatives, helping improve maintainability and operational efficiency.
+
+• Contributed to strengthening application security by implementing fixes for vulnerabilities identified through ethical hacking and security assessments.
+
+• Enhanced customer experience by implementing features such as last sign-on information display and various online banking service improvements, helping improve transparency and account security awareness.
+
+• Assisted in delivering reliable and stable application releases through comprehensive unit testing, integration testing, and production support activities.
+
+### Leadership Contribution
+
+• Participated in the design and development of multiple business-critical online banking modules supporting payments, customer security, alerts, and account management functions.
+
+• Took ownership of assigned application components from design through development, testing, deployment, and production support activities.
+
+• Worked closely with business analysts, senior developers, and testing teams to ensure accurate implementation of banking requirements and timely delivery of project milestones.
+
+• Contributed to application quality and stability through independent testing, defect resolution, and support for production deployments.
+
+• Supported software configuration management activities by serving as Project VSS Librarian, helping maintain source code integrity and development process discipline.
+
+• Assisted release management activities using Rational ClearCase, contributing to controlled deployment processes and successful production implementations.
+
+• Participated in troubleshooting and production support efforts, helping maintain application availability and quickly resolve operational issues affecting business users.
+
+
+Enterprise Innovation & Technical Contributions
+------------------------------------
+
+• Designed reusable messaging and processing frameworks that accelerated project delivery timelines by approximately 6 months.
+
+• Created reusable big-data processing, validation, and analytics frameworks supporting multiple enterprise initiatives.
+
+• Developed enterprise AI proof-of-concepts utilizing Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Custom GPT architectures.
+
+• Evaluated emerging technologies and established innovation pathways for data engineering, analytics, and AI-enabled business solutions.
+
+
+EDUCATION
+---------------
+Bachelor of Engineering
+Computer Science & Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur, India
+2004
+77.5% (First Class Honors)
+
+
+Achievements and Awards
+---------------------------
+• TopCoder Algorithm competition rating : 549 (Handle: gm_dwivedi)
+Profile Link: http://www.topcoder.com/tc?module=MemberProfile&cr=22718651
+• Active contributor in famous technology forum stackoverflow.com
+Profile link: http://stackoverflow.com/users/2748004/gyan
+• Recognized twice for technical consultation and mentorship of technology POC in Sapient.
+• Won iflex i-Appreciate Award in 2006 for exemplary performance in Citibank, Japan project.
+• Recognized twice into top performer’s group in iflex Solutions in annual performance review.
+• Cleared internationally recognized IKM (www.ikmnet.com) Java 2 Programming test with 86% and Java Server Side Programming test with 72% marks.
+
+Trainings and Certifications
+---------------------------------------------
+• AWS certified technical architect
+• Multiple courses completed on Udemy/LinkedIn/MOOC platforms with focus on AI technologies, Big Data, & Software architecture.
+• Authorized to work in the US for any employer (Legal Permanent Resident)
+• Certified professional in IBM Web sphere Developer for Windows.
+• OFSS-FFP (Finance Foundation Program) and Citicorp Finance Professional (Equity Market) module Certified.
+• Cleared many modules in Accumen learning (acumenlearning.com)
+
+• References available upon request
+
+MASTER TECHNOLOGY INVENTORY
+----------------------------------
+
+AI, Machine Learning & Generative AI
+• LLM Engineering
+• OpenAI APIs
+• OpenAI Custom GPTs
+• LangChain
+• LlamaIndex
+• Retrieval Augmented Generation (RAG)
+• Prompt Engineering
+• Vector Databases
+• Semantic Search
+• Knowledge Assistants
+• AI Workflow Automation
+• AI-Powered Analytics
+• Agentic Workflows
+• Machine Learning
+• Predictive Analytics
+•  OpenAI Assistants
+
+Cloud Platforms & Services
+Google Cloud Platform (GCP)
+• BigQuery
+• BigTable
+• Cloud Storage
+• Pub/Sub
+• IAM
+• Compute Engine
+• Cloud Run
+
+Amazon Web Services (AWS)
+• EC2
+• S3
+• CloudFront
+• Elastic Load Balancer (ELB)
+• VPC
+• Redis
+
+Programming Languages
+• Java
+• Python
+• PySpark
+• SQL
+• Shell Scripting
+• Perl
+• Visual Basic (VB6)
+• JavaScript
+• XML
+
+Frameworks & Application Development
+• J2EE
+• Spring Core
+• Spring Batch
+• JSP
+• Servlets
+• Struts
+• MVC Frameworks
+• REST APIs
+• SOAP Web Services
+• RMI
+
+Big Data & Data Engineering
+• Hadoop
+• MapR Hadoop
+• Apache Spark
+• Spark SQL
+• Hive
+• HBase
+• MapReduce
+• BigTable
+• Data Validation Frameworks
+• Distributed Data Processing
+• Apache Airflow
+• Jethro
+
+Databases & Data Storage
+• Oracle
+• Microsoft SQL Server
+• MySQL
+• HBase
+• BigTable
+
+Messaging, Streaming & Integration
+• IBM MQ
+• Apache ActiveMQ
+• Oracle Advanced Queue (AQ)
+• Google Pub/Sub
+• FIX Protocol 4.2
+• API Gateway
+• Event-Driven Messaging
+• Message-Oriented Middleware
+
+Application Servers & Runtime Platforms
+• Apache Tomcat
+• JBoss
+• IBM WebSphere
+• BEA WebLogic
+• Embedded Jetty
+
+Architecture & Design
+• Solution Architecture
+• Enterprise Architecture
+• Data Architecture
+• Cloud Architecture
+• Big Data Architecture
+• Microservices Architecture
+• Service-Oriented Architecture (SOA)
+• Event-Driven Architecture
+• Distributed Systems
+• System Integration
+• API Design
+• Real-Time Processing Systems
+• High-Performance Computing
+• In-Memory Processing
+
+DevOps, CI/CD & Configuration Management
+• Git
+• GitHub
+• GitHub Actions
+• Jenkins
+• Maven
+• AccuRev
+• Rational ClearCase
+• Microsoft Visual SourceSafe (VSS)
+
+Development, Collaboration & Project Tools
+• JIRA
+• Confluence
+• Rally
+• Eclipse
+• IntelliJ IDEA
+• Visual Studio Code
+• HP Quality Center (QC)
+• iMode Simulators
+
+Performance & Infrastructure Technologies
+• Java NIO
+• Direct Byte Buffers
+• Memory-Mapped Files
+• Trove Collection Library
+• JMX MBeans
+• High Availability (HA) Clusters
+• JBoss HA-JNDI
+
+Reporting & Document Generation
+• Jasper Reports
+• PDF APIs
+
+Methodologies & Delivery
+• Agile
+• Scrum
+• Iterative Development
+• Rapid Application Development (RAD)
+• SDLC
+• Proof of Concept (POC) Development
+
+ATS KEYWORD BANK
+--------------------
+Technical Architect
+Solutions Architect
+AI Engineer
+Data Engineer
+Machine Learning Engineer
+Big Data Architect
+Cloud Architect
+System Design
+Platform Architect
+Generative AI
+LLM Engineering
+RAG
+Prompt Engineering
+BigQuery
+GCP
+Hadoop
+Spark
+Financial Services
+Banking
+Credit Cards
+Customer Analytics
+Data Modernization
+Cloud Migration
+Data Governance
+Data Architecture
+Enterprise Architecture
+Microservices
+Distributed Systems
+Data Engineering
+Data Platform
+Data Lake
+Analytics Platform
+Enterprise Data Platform
+Predictive Analytics
+Customer Analytics
+Fraud Detection
+Cloud Data Platform
+BigQuery Migration
+Solution Architecture
+Technical Leadership
+OpenAI
+LangChain
+LlamaIndex
+Prompt Engineering
+Vector Databases
+Data Analytics
+Business Intelligence
+Machine Learning
+Customer Segmentation
+Profitability Analysis
+Fraud Detection
+Risk Analytics
+Data Quality
+Data Validation
+Big Data Modernization
+Enterprise Analytics
+Platform Engineering
+Cloud Analytics
+Generative AI Solutions
+Technical Architect
+Data Architect
+AI Architect
+Cloud Architect
+Solution Architect
+Principal Engineer
+Staff Engineer
+
+
+INDUSTRY EXPERIENCE
+------------------------
+Financial Services
+Credit Cards & Loyalty
+Consumer Banking
+Retail Banking
+Investment Management
+Capital Markets
+Derivatives Trading
+Forex Trading
+Regulatory Reporting
+Fraud Analytics
+Customer Analytics
+Portfolio Management
+SWIFT Messaging
+
+
+MASTER RESUME NOTES FOR AI TOOLS
+
+This document is intended to be used as a source resume.
+
+Instructions:
+
+1. Do not invent experience not present in this document.
+2. Prioritize skills and achievements that match the target job description.
+3. Preserve factual accuracy.
+4. Generate an ATS-friendly resume.
+5. Use keywords from the target job description where supported by this document.
+6. Focus on business impact, architecture leadership, AI/LLM expertise, cloud modernization, and financial services experience where relevant.
+7. Keep generated resumes between 2-4 pages unless otherwise requested.
+8. Do not use em dashes usually generated by LLMs. If you find those in final content, replace it with punctuations like comma, semicolon etc.
